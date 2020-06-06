@@ -6,7 +6,7 @@ function App() {
   return (
     <div className="App">
     hello world
-    how are u 
+    how are u whats going on
     </div>
   );
 }
